@@ -14,12 +14,12 @@
 
 ```yaml
 name: Ben Njima Malek
-location: Ariana, Tunisia 📍
+location: Mahdia, Tunisia 📍
 role: Full-Stack Developer @ TLedger
 education: Engineering Degree — TEK-UP University (2020–2025)
 motto: "Create something big & make a positive impact through code"
 currently:
-  - 🔨 Building a SaaS platform with AI model access & Tunisian payment integration
+  - 🔨 Building  SaaS platform with AI model access & Tunisian payment integration
   - 🧠 Exploring AI Agents, Spec-Driven Development & FinTech
   - ☕ Powered by coffee and curiosity
 ```
