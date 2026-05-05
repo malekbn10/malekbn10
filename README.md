@@ -26,7 +26,7 @@ currently:
 
 ---
 
-### 🛠️ Trophies
+### 🏆 GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=malekbn10)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🛠️ Tech Stack
 <div align="center">
